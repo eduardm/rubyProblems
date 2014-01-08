@@ -5,7 +5,7 @@ Solves of many popular algorithm problems in Ruby
 
 Table of content
 ================
-# fact.rb - Factorial. Spoj code: FCTRL. URL: http://www.spoj.com/problems/FCTRL/
+* fact.rb - Factorial. Spoj code: FCTRL. URL: http://www.spoj.com/problems/FCTRL/
 # fancy_validate.rb - Implement Accessors With Validation in Ruby; URL: http://thereq.com/q/300/ruby-software-interview-question/implement-accessors-with-validation
 # find_missing.rb - Find missing number in 1..N sequence (simplification of http://www.spoj.com/problems/MISSING/), 2 ways to solve it
 # find_missing_number_spoj_MISSING_sum.rb - Missing Number; Sposj code: MISSING; URL: http://www.spoj.com/problems/MISSING/
