@@ -1,4 +1,7 @@
-#Merge N sorted files into a single sorted file using the minimum memory footprint
+#Merge N sorted files into a single sorted file using the minimum memory footprint and keeping the handler to the files at minimun
+#This solution is very, very slow, but is keeping the file opened for the lowest possible time.
+#Time is O(n**2), Space is O(n). For a much faster solution ( O(nlogn) )please see my other solution using a min heap
+
 class Merge
   def initialize(pathIn, pathOut)
     @pathIn = pathIn
